@@ -4,7 +4,7 @@
 
 > *Because sometimes you don't just want to launch an app—you want to know if your ZFS pool is degrading or which Minecraft server is hogging the RAM.*
 
-![License](https://img.shields.io/github/license/CollOfTheWild/Dasharr?style=flat-square)
+![License](https://img.shields.io/badge/license-%20%20GNU%20GPLv3%20-green?style=flat-square)
 ![Status](https://img.shields.io/badge/status-pre--alpha-red?style=flat-square)
 
 ## 🏴‍☠️ What is Dasharr?
