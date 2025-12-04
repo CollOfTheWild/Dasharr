@@ -83,3 +83,15 @@ When generating code for the shell widget:
 │   │   └── App.tsx
 │   └── Dockerfile
 └── docker-compose.yml
+```
+
+## 6. Personalization Context
+* The user (CollOfTheWild) runs a heavy setup with:
+
+1. ZFS: Needs checking zpool health.
+
+2. Minecraft: Uses itzg/minecraft-server images heavily. Needs a custom aggregator widget.
+
+3. Smart Home: Uses n8n, Frigate, Mosquitto. Interested in event-driven updates.
+
+## You must also read the README.md from the GitHub repo which has been saved in the same directory as this GEMINI.md file, this will give you some context about UI/UX and required features.
